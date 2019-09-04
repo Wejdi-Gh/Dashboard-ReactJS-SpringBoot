@@ -2,4 +2,4 @@
 React Architecture Implementation
 
 
-![Farmers Market Finder - Animated gif demo](Demo/Dashboard.gif)
+![Dashboard - Animated gif demo](Demo/Dashboard.gif)
