@@ -1,0 +1,41 @@
+.form-inline {
+
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.sb-avatar {
+
+    cursor: pointer;
+}
+
+
+
+
+.mr-auto a {
+margin-right: 30px;
+margin-left: 30px;
+
+}
+
+.fa-sign-out-alt {
+
+    color: white;
+    cursor: pointer;
+}
+
+a {
+    font-size: 18px!important;
+    font-weight: bold!important;;
+
+    color :white;
+}
+
+a:hover {
+ text-decoration: none!important;
+ color: #28A745!important;
+}
+

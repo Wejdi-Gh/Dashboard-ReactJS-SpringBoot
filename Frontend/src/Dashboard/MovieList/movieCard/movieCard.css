@@ -1,0 +1,47 @@
+.card {
+   width: 18rem;
+   height: 520px;
+   margin: 10px;
+   
+}
+
+.card-text {
+   text-align: justify;
+   font-size: 13px;
+   height: 100px;
+   overflow: hidden;
+   margin-top: 10px;
+}
+
+.card img {
+
+   height: 55%;
+
+}
+
+.card-title {
+   height: 25px;
+   font-size: 18px!important;
+   text-align: center;
+   margin-bottom: 5px;
+}
+
+.card-body {
+   padding:10px!important;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.btn-elegant {
+   
+   height: 40px;
+   text-align: center;
+   border-radius: 20px!important;
+}
+
+.btn-elegant:hover {
+   background-color: rgb(19, 21, 22) !important;;
+   border: rgb(19, 21, 22)!important;;
+}

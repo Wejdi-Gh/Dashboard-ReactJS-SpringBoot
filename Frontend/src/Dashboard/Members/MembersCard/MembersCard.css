@@ -1,0 +1,142 @@
+.react-card-front {
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.react-card-back {
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+
+
+.react-card-flip {
+    height: 350px;
+    width: 300px;
+    margin: 10px;
+}
+
+.update-button {
+    background-color: #0CC851 !important;
+    border: #0CC851 !important;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    width: 50%;
+
+}
+
+.update-button:hover {
+    background-color: rgb(49, 143, 83) !important;
+    border: #0CC851 !important;
+
+}
+
+
+.delete-button {
+    background-color: rgb(218, 32, 32) !important;
+    border: rgb(218, 32, 32) !important;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.delete-button:hover {
+    background-color: rgb(224, 22, 22) !important;
+    border: rgb(224, 22, 22) !important;
+
+}
+
+.cardbody {
+    margin-top: 10px;
+    color: white;
+    width: 77%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    width: 90%;
+    display: flex;
+
+    justify-content: space-around;
+
+}
+
+.form-control {
+    width: 100%;
+
+}
+
+.react-card-front div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.react-card-back div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.input-form {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-form label {
+
+    font-size: 15px;
+
+}
+
+
+
+.submit-button {
+    background-color: blue !important;
+    border: blue !important;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    width: 50%;
+    margin-top: 10px
+}
+
+.submit-button:hover {
+    background-color: rgb(29, 29, 228) !important;
+    border: rgb(29, 29, 228) !important;
+
+}
+
+.submit-back {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fa-undo {
+    cursor: pointer;
+    color: azure;
+}
