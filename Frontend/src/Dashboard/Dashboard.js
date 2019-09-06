@@ -11,7 +11,6 @@ class Dashboard extends Component {
             <div className="dashboard-container">
                 
                 <DashboardNavBar />
-           
                 <DashboardRoutes />
 
             </div>

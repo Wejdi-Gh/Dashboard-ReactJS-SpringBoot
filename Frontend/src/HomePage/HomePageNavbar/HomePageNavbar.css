@@ -1,0 +1,25 @@
+.navbar-collapse  {
+
+    display :flex;
+justify-content: flex-end;
+
+}
+
+button{
+
+    margin-left : 20px;
+    margin-right: 20px;
+}
+
+a {
+
+    color : #28A745;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(110, 228, 137);
+
+}

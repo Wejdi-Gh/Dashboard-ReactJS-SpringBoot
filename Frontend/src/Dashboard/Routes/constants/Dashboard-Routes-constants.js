@@ -1,8 +1,8 @@
 import AddNewMember from '../../AddNewMember/AddNewMember'
 import Members from '../../Members/Members'
 import MovieList from '../../MovieList/MovieList'
-import NotFoudPage from '../../../Common/NotFoudPage/NotFoudPage'
 import HomePage from '../../HomePage/HomePage'
+import NotFoundPage from '../../../Common/NotFoudPage/NotFoudPage'
 
 export const routes = [ {
     path: '/',
@@ -27,7 +27,7 @@ export const routes = [ {
 
 {
   
-    component: NotFoudPage,
+    component: NotFoundPage ,
     name: 'Not Found Page'
 }
 ]
